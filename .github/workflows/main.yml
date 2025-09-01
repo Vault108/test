@@ -12,7 +12,8 @@ on:
 jobs:
   generate-stats-svg:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write # Grant write permissions to the github-actions bot
     steps:
       # Step 1: Check out the repository code
       - name: Checkout repository
