@@ -1,49 +1,6 @@
 {
-    "recenttracks": {
-        "track": [
-            {
-                "artist": {
-                    "mbid": "",
-                    "#text": "Ghost"
-                },
-                "streamable": "0",
-                "image": [
-                    {
-                        "size": "small",
-                        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9344e9c24a21f641c1ed2e6a9d6afef9.jpg"
-                    },
-                    {
-                        "size": "medium",
-                        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9344e9c24a21f641c1ed2e6a9d6afef9.jpg"
-                    },
-                    {
-                        "size": "large",
-                        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9344e9c24a21f641c1ed2e6a9d6afef9.jpg"
-                    },
-                    {
-                        "size": "extralarge",
-                        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9344e9c24a21f641c1ed2e6a9d6afef9.jpg"
-                    }
-                ],
-                "mbid": "14304278-0451-48b3-b555-5d84d693608b",
-                "album": {
-                    "mbid": "079bf359-e3cc-443d-a072-507c64678433",
-                    "#text": "Prequelle"
-                },
-                "name": "Rats",
-                "url": "https://www.last.fm/music/Ghost/_/Rats",
-                "date": {
-                    "uts": "1757965728",
-                    "#text": "15 Sep 2025, 19:48"
-                }
-            }
-        ],
-        "@attr": {
-            "user": "Tyr5678",
-            "totalPages": "20797",
-            "page": "1",
-            "perPage": "1",
-            "total": "20797"
-        }
-    }
+    "artist": "Ghost",
+    "song": "Rats",
+    "album": "Prequelle",
+    "image": "https://lastfm.freetls.fastly.net/i/u/300x300/9344e9c24a21f641c1ed2e6a9d6afef9.jpg"
 }
